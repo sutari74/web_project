@@ -19,7 +19,7 @@ class ContactUs extends Component {
 			  </td>
 			</tr>
             <tr>
-              <td> Age </td>
+              <td> Email </td>
               <td>
                  <input type="text"></input>
               </td>
